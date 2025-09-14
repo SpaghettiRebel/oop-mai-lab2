@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/my_app.dir/src/lab1.cpp.o -o bin/my_app  libmylib.a 
