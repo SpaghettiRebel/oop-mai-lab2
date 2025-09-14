@@ -1,7 +1,7 @@
 CMakeFiles/mylib.dir/src/func.cpp.o: \
- /mnt/c/Users/Вячеслав/Desktop/oop/src/func.cpp \
+ /mnt/c/Users/Вячеслав/Desktop/oop/lab1/src/func.cpp \
  /usr/include/stdc-predef.h \
- /mnt/c/Users/Вячеслав/Desktop/oop/include/func.hpp \
+ /mnt/c/Users/Вячеслав/Desktop/oop/lab1/include/func.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

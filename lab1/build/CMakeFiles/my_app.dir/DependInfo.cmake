@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/Вячеслав/Desktop/oop/src/lab1.cpp" "CMakeFiles/my_app.dir/src/lab1.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/lab1.cpp.o.d"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/src/lab1.cpp" "CMakeFiles/my_app.dir/src/lab1.cpp.o" "gcc" "CMakeFiles/my_app.dir/src/lab1.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Users/Вячеслав/Desktop/oop/build/CMakeFiles/mylib.dir/DependInfo.cmake"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/CMakeFiles/mylib.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

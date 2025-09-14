@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/c/Users/Вячеслав/Desktop/oop/include -isystem /mnt/c/Users/Вячеслав/Desktop/oop/build/_deps/googletest-src/googletest/include -isystem /mnt/c/Users/Вячеслав/Desktop/oop/build/_deps/googletest-src/googletest
+CXX_INCLUDES = -I/mnt/c/Users/Вячеслав/Desktop/oop/lab1/include -isystem /mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-src/googletest/include -isystem /mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-src/googletest
 
 CXX_FLAGS = -std=gnu++17
 

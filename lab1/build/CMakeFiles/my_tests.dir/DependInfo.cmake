@@ -8,14 +8,14 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/Вячеслав/Desktop/oop/tests/test_main.cpp" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o" "gcc" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o.d"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/tests/test_main.cpp" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o" "gcc" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Users/Вячеслав/Desktop/oop/build/CMakeFiles/mylib.dir/DependInfo.cmake"
-  "/mnt/c/Users/Вячеслав/Desktop/oop/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/mnt/c/Users/Вячеслав/Desktop/oop/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/CMakeFiles/mylib.dir/DependInfo.cmake"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
