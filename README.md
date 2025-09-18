@@ -4,4 +4,4 @@
 Лабораторные работы по ООП, 3 семестр
 
 1. Вариант №14
-   <img width="846" height="354" alt="Снимок экрана 2025-09-17 231531" src="https://github.com/user-attachments/assets/889e0555-d215-4720-b17e-cbeb4aefc684" />
+<img width="846" height="354" alt="Снимок экрана 2025-09-17 231531" src="https://github.com/user-attachments/assets/889e0555-d215-4720-b17e-cbeb4aefc684" />
