@@ -5,14 +5,13 @@ std::string func(std::string text, int n, char old_value, char new_value) {
   if (n <= 0)
     return text;
 
-  int i{0}, count{0};
+  int count{0};
 
-  while (text[i] != '\0') {
-    if (text[i] == old_value)
-      count = (++count) % n;
-    if (text[i] == old_value && count == 0)
-      text[i] = new_value;
-    i++;
+  for (size_t i = 0; i < text.size(); ++i) {
+    if (text[i] == old_value) {
+      if ((++count) % n == 0)
+        text[i] = new_value;
+    }
   }
   return text;
 }

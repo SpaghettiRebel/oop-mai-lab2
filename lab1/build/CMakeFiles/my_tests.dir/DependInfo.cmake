@@ -11,11 +11,12 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/tests/test_main.cpp" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o" "gcc" "CMakeFiles/my_tests.dir/tests/test_main.cpp.o.d"
   )
 
-# Targets to which this target links.
-set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/CMakeFiles/mylib.dir/DependInfo.cmake"
-  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-build/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
-  "/mnt/c/Users/Вячеслав/Desktop/oop/lab1/build/_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/DependInfo.cmake"
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
   )
 
 # Fortran module output directory.
