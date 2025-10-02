@@ -4,5 +4,5 @@
 
 Исполняемые файлы для лежат в директории build/bin
 
-1. Вариант №14
-<img width="846" height="354" alt="Снимок экрана 2025-09-17 231531" src="https://github.com/user-attachments/assets/889e0555-d215-4720-b17e-cbeb4aefc684" />
+2. Вариант №4
+<img width="1334" height="116" alt="image" src="https://github.com/user-attachments/assets/83a9f57c-6900-4d05-8602-9a85a50e70f9" />
